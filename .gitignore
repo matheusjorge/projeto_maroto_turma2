@@ -1,0 +1,8 @@
+*.ipynb
+.ipynb_checkpoints/*
+**/.ipynb_checkpoints/*
+**/__pycache__/*
+
+data/*.csv
+models/*.pkl
+plots/*.png
